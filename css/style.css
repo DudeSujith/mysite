@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+color: #40514E;
+  text-align: center;
+}
+h1 {
+  color: #009AAE;
+  margin: 2.5em auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  letter-spacing: 2.0px;
+  font-size: 3em;
+}
+hr {
+border-style: dotted;
+width: 8%;
+border-top: 1px;
+border-width: 5px;
+color: #EAF6F6;
+
+}
+.programmer {
+  font-weight: normal;
+    color: #009AAE;
+    font-size: 1em;
+}
+p {
+  font-family: serif;
+  font-size: 14px;
+font-weight: 500;
+}
+.top {
+  background-color: #E0EBE8;
+  padding: 50px 0 0 0;
+  position: relative;
+}
+.cloud1 {
+  width: 400px;
+  position: absolute;
+  left: 30px;
+}
+.cloud2 {
+  width: 400px;
+  position: absolute;
+  right: 20px;
+  top: 50px;
+}
+.profile_pic {
+  width: 130px;
+  margin: 20px auto 20px auto;
+}
+.skills {
+  line-height: 20px;
+margin-top: 50px;
+}
+.skill-text{
+  text-align: left;
+}
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.skills-img1 {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+.skills-img2 {
+  width: 25%;
+  float: right;
+margin-left: 20px;
+}
+h2{
+  color: #66BFBF;
+  font-family: sans-serif;
+}
+h3 {
+  color: #009AAE;
+  font-family: sans-serif;
+  margin: 20px 0 20px 0;
+
+}
+.footer-link {
+  color: #009AAE;
+}
+.profile {
+  width: 40%;
+    margin: 50px auto 50px auto;
+    text-align: center;
+  }
+.contact-me{
+  width: 40%;
+  margin: 50px auto 50px auto;
+}
+.bottom-container
+{
+  background-color: #ff847c;
+padding: 30px 0 30px 0;
+}
+a {
+  text-decoration: none;
+  font-family: sans-serif;
+  margin: 10px 20px;
+  color: #33bdef;
+  font-family: sans-serif;
+}
+a:hover{
+  color: white;
+}
+.myButton {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.copyright {
+  color: white;
+}
